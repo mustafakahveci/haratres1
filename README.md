@@ -5,13 +5,13 @@ tasarlanmalıdır.
 • Karakter Sayısı ve Cümle Girişi:
 
   Kullanıcıdan maksimum karakter sayısını belirlemesini isteyin.
-Kullanıcıdan bu limit dahilinde bir cümle girmesini isteyin. Eğer girilen cümle karakter limi@ni 
+Kullanıcıdan bu limit dahilinde bir cümle girmesini isteyin. Eğer girilen cümle karakter limitini 
 aşıyorsa, uyarı verin ve kullanıcıdan cümleyi yeniden girmesini isteyin.
 
 • Büyük/Küçük Harf Duyarlılığı Seçeneği:
 
   Cümle ve harf analizi yapmadan önce, kullanıcıdan büyük/küçük harf duyarlılığı tercihini alın. Örneğin, 
-kullanıcıya "Büyük/küçük harf duyarlılığı ak@f olsun mu? (Evet/Hayır)" diye sorabilirsiniz. İstenen 
+kullanıcıya "Büyük/küçük harf duyarlılığı aktif olsun mu? (Evet/Hayır)" diye sorabilirsiniz. İstenen 
 değerler haricinde bir cevap girildiğinde hata mesajı verilmedir. Örneğin: Evet/Hayır seçenekleri 
 haricinde bir değer girilmesi durumunda “Lü?en geçerli bir cevap giriniz.” şeklinde hata mesajı 
 çıkmalıdır.
